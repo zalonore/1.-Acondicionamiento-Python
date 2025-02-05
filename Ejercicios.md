@@ -1,6 +1,6 @@
 # Actvidad de acondicionamiento en desarrollo de software
 
-A continuación se presentan los ejercicios 1, 2, 3, 7, 8 y 9.
+# Desarrolloe los ejercicios presentados a continuación y haga push permanentemente a medida que va logrando las soluciones.
 
 ---
 
@@ -72,7 +72,7 @@ Si
 
 ---
 
-## Ejercicio 7: Invertir una Lista de Números
+## Ejercicio 4: Invertir una Lista de Números
 
 **Descripción:**  
 Dada una lista de números enteros separados por espacios, invierte el orden de los elementos y muestra la lista invertida en una sola línea.
@@ -94,7 +94,7 @@ Dada una lista de números enteros separados por espacios, invierte el orden de 
 
 ---
 
-## Ejercicio 8: Contar Palabras en una Cadena
+## Ejercicio 5: Contar Palabras en una Cadena
 
 **Descripción:**  
 Dada una cadena de texto, cuenta la cantidad de palabras que contiene.  
@@ -117,7 +117,7 @@ Hola mundo desde Python
 
 ---
 
-## Ejercicio 9: Encontrar el Máximo y Mínimo
+## Ejercicio 6: Encontrar el Máximo y Mínimo
 
 **Descripción:**  
 Dada una lista de números enteros separados por espacios, determina cuál es el número mayor y cuál es el menor.
